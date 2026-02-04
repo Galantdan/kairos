@@ -47,4 +47,3 @@ jobs:
       auroraboot_version: latest
       release: true
       list_release_artifacts: false
-EOF
